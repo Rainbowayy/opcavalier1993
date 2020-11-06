@@ -19,19 +19,20 @@ p{
     font-size:20px;
 }
 .grid-container{
-column-count:4;
+column-count:1;
 margin-top:20px;
 column-gap:30px;
 }
 .grid-imgs{
-    width:80%;
-    height:80%;
+    width:50%;
+    height:50%;
     border-radius:10px;
     object-fit:cover;
     transition-duration:0.25s;
 }
 .grid-imgs:hover{
-
+    width:90%;
+    height:90%;
 }
 .masonryblocks{
     display:inline-block;
