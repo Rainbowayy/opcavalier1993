@@ -7,16 +7,12 @@ a{
 }
 a:hover{
     transition:0.5s;
-    background:linear-gradient(to bottom, #ff3400 50%, white 50%);
-    background-size:88% 197%;
-    background-position:bottom;
-    transition: all 0.5s ease-in;
+    color:red;
 }
 header{
     width:100%;
     word-spacing:150px;
     height:auto;
-    opacity:0.8;
     
 }
 body{
